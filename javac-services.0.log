@@ -1,0 +1,39 @@
+INFO	?	main	2017-04-19T10:26:00.540Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	main	2017-04-19T10:26:02.351Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:26:02.519Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /tmp/classpath2447715221381274949.txt
+INFO	?	main	2017-04-19T10:26:23.616Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2017-04-19T10:26:23.645Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	InitialIndex	2017-04-19T10:26:25.546Z	org.javacs.SymbolIndex$1#parseAll	Index /root/Source/java/struts/struts-project/src/main/java/com/example/struts2/action/Login.java
+INFO	?	InitialIndex	2017-04-19T10:26:25.680Z	org.javacs.SymbolIndex$1#parseAll	Index /root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java
+INFO	?	main	2017-04-19T10:26:55.065Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /tmp/classpath4884895352901137108.txt
+INFO	?	main	2017-04-19T10:27:17.199Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2017-04-19T10:27:17.220Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2017-04-19T10:27:17.613Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:27:18.203Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:27:18.357Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:27:18.769Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:27:18.842Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:27:34.265Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:27:37.911Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:27:49.612Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:27:55.455Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:02.506Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:03.436Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:07.501Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:10.127Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:12.245Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:15.054Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:18.967Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:23.911Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:25.247Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:29.635Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:32.509Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:36.406Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:38.550Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:43.708Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:44.741Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:50.649Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:53.305Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:55.921Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:28:58.469Z	org.javacs.JavaLanguageServer#doLint	Lint [/root/Source/java/struts/struts-project/src/main/java/com/example/struts2/model/Users.java]
+INFO	?	main	2017-04-19T10:29:06.514Z	org.javacs.Main#run	Connection closed
