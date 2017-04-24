@@ -8,6 +8,6 @@
     <sb:head/>
 </head>
 <body>
-    WELCOME
+HELLO
 </body>
 </html>
