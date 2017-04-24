@@ -3,20 +3,21 @@ package com.example.struts2.model;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity(name="users")
 public class Users {
     
     @Id
-    @GeneratedValue(strategy=AUTO)
-    int id;
+    @GeneratedValue(strategy=GenerationType.IDENTITY)
+    private int id;
 
     @Column(name="username")
-    String username;
+    private String username;
 
     @Column(name="password")
-    String password;
+    private String password;
 
     public void setId(int id) {
         this.id = id;
